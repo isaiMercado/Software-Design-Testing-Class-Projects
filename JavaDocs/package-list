@@ -1,0 +1,10 @@
+
+client.clientCommunicator
+client.serverTesterGUI
+server.dataBase
+server.dataBaseAccessClasses
+server.javaHTTPserver
+server.serverFacade
+shared.communicationClasses
+shared.dataImporterProgram
+shared.modelClasses
